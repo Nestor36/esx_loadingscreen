@@ -58,6 +58,6 @@
 ###
 
 <h3 align="left">🔥   Script Original :</h3>
-<a href="[https://www.google.com/](https://github.com/esx-framework/esx_core/tree/bcc1e876b6b7befa8630ee5fafc605b10dc290d3/%5Bcore%5D/esx_loadingscreen)https://github.com/esx-framework/esx_core/tree/bcc1e876b6b7befa8630ee5fafc605b10dc290d3/%5Bcore%5D/esx_loadingscreen" target="_blank">[core]/esx_loadingscreen</a>
+<a href="https://github.com/esx-framework/esx_core/tree/bcc1e876b6b7befa8630ee5fafc605b10dc290d3/%5Bcore%5D/esx_loadingscreen" target="_blank">[core]/esx_loadingscreen</a>
 
 ###
