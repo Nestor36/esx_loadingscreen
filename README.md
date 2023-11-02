@@ -25,6 +25,7 @@
 <h3 align="left">👩‍💻  ESX_LOADINGSCREEN</h3>
 
 <img src="https://i.imgur.com/xRZOpBd.jpg" />
+<img src="https://i.imgur.com/wwAIbye.png" />
 
 ###
 
