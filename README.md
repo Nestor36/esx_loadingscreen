@@ -24,6 +24,8 @@
 
 <h3 align="left">👩‍💻  ESX_LOADINGSCREEN</h3>
 
+<img src="https://i.imgur.com/xRZOpBd.jpg" />
+
 ###
 
 <p align="left">Novedades: <br>- 🔭 Diseño intuitivo</p>
