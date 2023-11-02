@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+
+.video-foreground,
+.video-background iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.video-background {
+    background: #000;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -99;
+    filter: contrast(1.5);
+  }
+  
+
+
+
+  
+.nameImg{
+    font-size: 2rem;
+    color: #fcedd8;
+    font-family: 'Niconne', cursive;
+    text-shadow: 5px 5px 0px #eb452b, 
+            10px 10px 0px #efa032, 
+            15px 15px 0px #46b59b, 
+            20px 20px 0px #017e7f, 
+            25px 25px 0px #052939, 
+            30px 30px 0px #c11a2b, 
+            35px 35px 0px #c11a2b, 
+            40px 40px 0px #c11a2b, 
+            45px 45px 0px #c11a2b;
+}
+
+
+.TituloRP{
+    z-index: -1; 
+    position: absolute;
+    display: flex;
+    height: 100%;
+    width: 100%;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+  
+.TituloRPh1 {
+    color: rgba(102, 51, 153, 0.13);
+    font-size: 10vw;
+    text-shadow: 4px 4px 0px #3f7fbf4f;
+    mix-blend-mode: screen;
+    animation: fadeIn 2.5s linear forwards;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
